@@ -1,0 +1,5 @@
+https://www.sysgeek.cn/repair-windows-using-dism-tool
+
+/sfc /scannow
+
+DISM /Online /Cleanup-Image /RestoreHealth /Source:X:\Download\System_ISO\install.wim /LimitAccess
