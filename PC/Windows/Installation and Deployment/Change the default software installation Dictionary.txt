@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion
+
+ProgramFilesDir ProgramFilesDir (x86) ProgramW6432Dir
+
+系统”>“存储”>“高级存储设置”>“更改新内容的保存位置
