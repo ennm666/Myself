@@ -70,3 +70,15 @@ vim /etc/gai.conf
 
 **增添#注释达到效果**
 
+
+**Vmshell清理脚本:** [VPS小内存硬盘日志定时清理工具](https://github.com/FoxBary/smallvps)
+
+```
+bash <(curl -sL https://raw.githubusercontent.com/FoxBary/smallvps/main/vmshellvps.sh)
+```
+
+**3X-UI:** [Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)](https://github.com/MHSanaei/3x-ui)
+
+```
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+```
