@@ -20,6 +20,8 @@
 
 - Global Speed
 
+- cat-catch
+
 - SteamDB
 
 - User-Agent Switcher and Manager
@@ -29,5 +31,6 @@
 - AIX 下载器
 
 - TG 媒体下载器
+
 
 - Shazam
