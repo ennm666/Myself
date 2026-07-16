@@ -34,10 +34,10 @@ irm https://get.activated.win | iex
 
 <details>
 
+- [Revision](https://revi.cc/)
 - [Atlas](https://atlasos.net/)
 - [BoosterX](https://boosterx.org/zh/)
-- [LatencyMon](https://resplendence.com/latencymon)
-- [Memreduct](https://memreduct.org/mem-reduct-download/)
+
 
 </details>
 
@@ -69,25 +69,41 @@ irm https://get.activated.win | iex
 
 </details>
 
+
+## Package Manager
+
+<details>
+
+- [**UniGetUI**](https://apps.microsoft.com/detail/xpfftq032ptphf)
+
+
+</details>
+
 ## Browser
 
 <details>
 
 ### 1. Installation package version
 
-- [Micsoft Edge](https://tools.xixiranran.com/edge/)
+- [Micsoft Edge](https://xixiranran.github.io/tools/edge/)
 
-- [Cent](https://tools.xixiranran.com/cent/)
+- [Chrome](https://xixiranran.github.io/tools/chrome/)
 
-- [Chrome](https://tools.xixiranran.com/chrome/)
+- [Brave](https://xixiranran.github.io/tools/brave/)
 
 ### 2.Portable version
+
+- [Portable Edge](https://github.com/UndertakerBen/PorEdgeUpd)
+
+- [Portable Chrome](https://piracola.github.io/ChromiumPortable/)
+
+-[Portable Brave](https://github.com/portapps/brave-portable)
 
 - [Mybrowser](https://github.com/xixiranran/MyChrome/releases)
 
 </details>
 
-## Hardware test Collection
+## Hardware Test Collection
 
 <details>
 
@@ -99,6 +115,7 @@ irm https://get.activated.win | iex
 
 <details>
 
+- [WeType](https://type.weixin.qq.com/)
 
 - [Sougou](https://www.mefcl.com/sougouime.html)
 
@@ -110,9 +127,12 @@ irm https://get.activated.win | iex
 
 <details>
 
+- [**Nanazip**](https://apps.microsoft.com/detail/9nzl0lrp1bnl)
+
 - [7z-zstd](https://github.com/mcmilk/7-Zip-zstd/releases)
+
 - [Bandizip](https://www.bandisoft.com/bandizip/)
-- [Nanazip Preview](https://apps.microsoft.com/detail/9nzl0lrp1bnl)
+[PatchedVer](https://www.423down.com/9735.html)
 
 </details>
 
@@ -126,10 +146,15 @@ Activate In Powershell
 `
 iex(irm is.gd/idm_reset)
 ` 
-- [Neat Download Manager](https://www.neatdownloadmanager.com/)
-- [Gopeed](https://gopeed.com/zh-CN)
+
+Cracker : [IDM_6.4x_Crack](https://github.com/ennm666/Myself/blob/main/PC/Windows/%2BSoftware/ti/IDM_6.4x_Crack_v20.6.exe)
+
+- [**Gopeed**](https://gopeed.com/zh-CN)
+
 - [qbittorrent](https://pan.lanpw.com/b073dnr7g)
-- [Bitcomet](https://www.mefcl.com/bitcomet.html)
+
+- [Bitcomet](https://bbs.itzmx.com/thread-117645-1-1.html)
+
 - [~~吸血雷~~](https://www.lanzouw.com/iJaJL2i33vkd)
 >Tracker List `https://cf.trackerslist.com/all.txt`
 
@@ -148,7 +173,7 @@ iex(irm is.gd/idm_reset)
 
 - **[Shark007 Codecs](https://shark007.net/index.html)**
 
-- **[MPV-Lazy](https://github.com/hooke007/MPV_lazy/releases/)**
+- **[MPV-Playkit](https://github.com/hooke007/mpv_PlayKit)**
 
 - [K-lite Codec Pack-Full](https://codecguide.com/download_kl.htm)
 
@@ -157,7 +182,10 @@ iex(irm is.gd/idm_reset)
 - [Potplayer](https://potplayer.daum.net/)
 
 ### 2.Picture viewer
-- **ImageGlass** [Official](https://imageglass.org/) [Microsoft Sore](https://apps.microsoft.com/detail/9n33vzk3c7th?launch=true&cid=ig_website_badge&mode=full&hl=zh-CN&gl=US)
+
+- [果核看图](https://pic.ghxi.com/)
+
+- [Bandiview Pro](https://bbs.itzmx.com/thread-110151-1-1.html)
 
 ### 3.Music Player
 
@@ -168,12 +196,6 @@ iex(irm is.gd/idm_reset)
 - [NetEase cloud music](https://music.163.com/#/download)
 
 ### 4.Audio Settings
-
-- [Realtek Audio Control](https://apps.microsoft.com/detail/9p2b8mcsvpln?hl=zh-CN&gl=US)
-
-- [Realtek-Zhihu](https://zhuanlan.zhihu.com/p/347248307)
-
-
 
 - [VoiceMeeter Banana教程](https://www.bilibili.com/video/av857327278/)
 
