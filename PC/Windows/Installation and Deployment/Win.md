@@ -97,7 +97,7 @@ irm https://get.activated.win | iex
 
 - [Portable Chrome](https://piracola.github.io/ChromiumPortable/)
 
--[Portable Brave](https://github.com/portapps/brave-portable)
+- [Portable Brave](https://github.com/portapps/brave-portable)
 
 - [Mybrowser](https://github.com/xixiranran/MyChrome/releases)
 
