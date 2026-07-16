@@ -6,7 +6,7 @@
 
 [360 Antivirus](https://sd.360.cn/)
 
-[Windows Defender Blocker](https://www.52pojie.cn/thread-1512356-1-1.html)
+[Windows Defender Remover](https://github.com/ionuttbara/windows-defender-remover)
 
 
 </details>
@@ -35,22 +35,31 @@
 
 ### 1. Installation package version
 
-- [Micsoft Edge](https://tools.xixiranran.com/edge/)
+### 2. Browser
 
-- [Cent](https://tools.xixiranran.com/cent/)
+#### Installation package version
 
-- [Chrome](https://tools.xixiranran.com/chrome/)
+- [Micsoft Edge](https://xixiranran.github.io/tools/edge/)
 
-### 2.Portable version
+- [Chrome](https://xixiranran.github.io/tools/chrome/)
+
+- [Brave](https://xixiranran.github.io/tools/brave/)
+
+#### Portable version
+
+- [Portable Edge](https://github.com/UndertakerBen/PorEdgeUpd)
+
+- [Portable Chrome](https://piracola.github.io/ChromiumPortable/)
+
+- [Portable Brave](https://github.com/portapps/brave-portable)
 
 - [Mybrowser](https://github.com/xixiranran/MyChrome/releases)
 
-### 3.Tweaker
+### 3. Tweaker
 
 - [Edge Remover](https://www.osssr.com/16274.html)
 
 </details>
-
 
 
 ## Game
@@ -67,15 +76,11 @@
 
 <details>
 
-- [Watt Toolkit](https://steampp.net/)
-
 - [V2rayN](https://github.com/2dust/v2rayN/releases)
 
-- [Clash Verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+- [FlClash](https://github.com/chen08209/FlClash)
 
 - [Wireguard](https://www.wireguard.com/install/)
-
-- [Oblivion](https://github.com/bepass-org/oblivion-desktop/releases)
 
 - [Cloudflare WARP](https://one.one.one.one/)
 
@@ -106,13 +111,16 @@
 
 </details>
 
-## Development run environment
+## Development Environment
 
 <details>
 
 - [Adoptium JDK](https://adoptium.net/zh-CN/temurin/releases/)
+
 - [.NET SDK](https://dotnet.microsoft.com/zh-cn/download)
+
 - [.NET Framework](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework)
+
 - [Python](https://www.python.org/downloads/)
 
 </details>
@@ -142,21 +150,23 @@
 
 ### 2.Video
 
+#### Record
+
 - [OBS Studio](https://obsproject.com/)
 
-- [Blender](https://www.blender.org/)
-
 #### Montage
+
+- [达芬奇](http://www.blackmagicdesign.com/cn/event/davinciresolvedownload)
 
 - [Capcut(剪映国际版)](https://www.capcut.com/zh-tw/)
 
 - [剪映](https://www.capcut.cn/)
 
-#### Pack
+#### Packer
 
 - [Handbrake](https://handbrake.fr/)
 
-- [~~格式工厂~~](https://www.mefcl.com/formatfactory.html)
+- [**3FUI**](https://github.com/Lake1059/FFmpegFreeUI)
 
 - [mkvtoolnix](https://mkvtoolnix.download/downloads.html)
 
@@ -167,8 +177,6 @@
 ## Net software
 
 <details>
-
-- [Best trace v3.9.2](https://www.coolexe.com/537.html?btwaf=65504845)
 
 - [Opentrace](https://github.com/Archeb/opentrace/releases)
 
