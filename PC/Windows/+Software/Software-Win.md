@@ -23,6 +23,8 @@
 
 - [PixPin](https://pixpinapp.com/)
 
+- [RoboCopyEx](https://apps.microsoft.com/detail/9pkjk0bhnvfn)
+
 - [FastCopy](https://fastcopy.jp/)
 
 - [SymlinkCreator](https://github.com/arnobpl/SymlinkCreator/releases)
@@ -143,12 +145,20 @@
 
 <details>
 
+### Note And Capture
 
-### 1.Code
+- [思源笔记](https://github.com/siyuan-note/siyuan)
+
+- [ABBYY FinReader 16](pdf.abbyy.com)
+> [Patched Version](https://mega.nz/file/XypWUbpZ#c0oshWz6HZuuQH_CaRaRDijCot4W722VUywtztxTpPY)
+
+
+
+### Code
 
 - [Visual Studio](https://visualstudio.microsoft.com/zh-hans/)
 
-### 2.Video
+### Video
 
 #### Record
 
@@ -170,7 +180,13 @@
 
 - [mkvtoolnix](https://mkvtoolnix.download/downloads.html)
 
-- [MedLexo](https://medlexo.sourceforge.io/cn.php)
+- [MedLexo](https://medlexo.sourceforge.io/indexzh.html)
+
+### Picture
+
+#### Compress
+
+- [Xnconvert](https://www.xnview.com/en/xnconvert/)
 
 </details>
 
