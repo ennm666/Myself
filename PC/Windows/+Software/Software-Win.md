@@ -21,6 +21,8 @@
 
 - [滴答清单](https://dida365.com/download?language=zh_CN)
 
+- [HiBitUninstaller](https://hibit-uninstaller.com/zh/)
+
 - [PixPin](https://pixpinapp.com/)
 
 - [RoboCopyEx](https://apps.microsoft.com/detail/9pkjk0bhnvfn)
@@ -171,6 +173,8 @@
 - [Capcut(剪映国际版)](https://www.capcut.com/zh-tw/)
 
 - [剪映](https://www.capcut.cn/)
+
+- [LosslessCut](https://github.com/mifi/lossless-cut)
 
 #### Packer
 
